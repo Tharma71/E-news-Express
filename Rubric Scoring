@@ -1,0 +1,24 @@
+Criteria	      Ratings	
+
+A. Define the problem and perform an Exploratory Data Analysis  8/8
+"Observations made on shape of data, data types of all the attributes, missing value detection, statistical summary, Univariate Analysis made on the continuous , categorical variables & provides the insights Bivariate Analysis made on the relationships between important variables & provides the insights as expected. "
+
+B. Illustrate the insights based on EDA  6/6
+"EDA peformed appropriately & comments provided on range of attributes, outliers of various attributes Insight drawn on the distribution of the variables and relationship between variables Comments on univariate and bivariate plots provided "
+
+C. Do the users spend more time on the new landing page than the old landing page? 10/10
+"Visual analysis performed, Correct null and alternative hypothesis formulated appropriate test selected & Correct p-value dervied Appropriate conclusion and inference drawn based on the test "
+
+D. Is the conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page? 10/10
+"Visual analysis performed,Correct null and alternative hypothesis formulated, appropriate test selected & Correct p-value dervied Appropriate conclusion and inference drawn based on the test "
+
+E. Does the converted status depend on the preferred language? 10/10
+"Visual analysis performed,Correct null and alternative hypothesis formulated appropriate test selected & Correct p-value dervied Appropriate conclusion and inference drawn based on the test "
+
+F. Is the mean time spent on the new page same for the different language users? 7/10
+"Visual analysis performed, Correct null and alternative hypothesis formulated appropriate test selected & Appropriate conclusion and inference drawn based on the test, However Correct p-value was not derived "
+
+G. Presentation/Notebook - Overall Quality
+"Structure and flow of the presentation is Neat & Crisp informative visualizations added which are easy to interpret Conclusion is very precise & Recommendation are clear "	6/6
+
+Points	57/60
